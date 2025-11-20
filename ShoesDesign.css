@@ -1,0 +1,62 @@
+body
+{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.container
+{
+    
+    text-align: center;
+    border: 3px solid rgb(153, 118, 118);
+    background-color: rgb(229, 226, 223);
+    border-radius: 40px;
+    padding: 70px;
+    width: 350px;
+    height:auto;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+button{
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;  
+}
+img{
+    border-radius: 5px;
+    height: 300px;
+    width:300px;
+    margin-bottom: 10px;
+}
+.view-details:hover
+{
+    background-color: antiquewhite;
+}
+
+.cancel:hover
+{
+    background-color: antiquewhite;
+}
+
+
+.submit{
+    background-color: rgb(73, 130, 17);
+
+}
+.submit:hover
+{
+    background-color: rgb(7, 106, 33);
+}
+
+h3
+{
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style:normal;
+  font-size: 35px;
+}
+
