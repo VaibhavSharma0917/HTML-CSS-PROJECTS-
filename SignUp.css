@@ -1,0 +1,94 @@
+body{
+    background-color: #b6b8a1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+
+}
+
+form{
+    background-color: #d0c4bb;
+    border-radius: 40px;
+    padding: 20px;
+    width: 300px;
+    height:auto
+}
+
+style1{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+figcaption{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+field{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+     margin-bottom: 10px;
+    border-radius: 25px;
+    height: 30px;
+    text-align: left;
+}
+
+field2
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+    
+}
+
+button
+{
+    text-align: center;
+    margin-top: 30px;
+    height: 30px;
+    border-radius: 30px;
+    width: 130px;
+    margin-right: 10px;
+}
+
+
+
+h5 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+field3{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+button:hover{
+
+    background-color: rgb(191, 198, 183);
+}
+
+img{
+    border-radius: 30px;
+    width: 240px;
+    margin-left: 30px;
+}
+
+label
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-left: 80px;
+    
+
+}
+
